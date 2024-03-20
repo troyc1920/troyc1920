@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @troyc1920
 - 👀 I’m interested in becoming a better coder
-- 🌱 I’m currently learning c++
+- 🌱 I’m learning APIS and Web-Design
 - 📫 How to reach me email - colintroy1@gmail.com
 -                    phone - 210-997-4411
 The files in this repository are just some basic assignments from CSCE 110 and CSCE 206 (Python and C)
